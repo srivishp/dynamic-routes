@@ -2,8 +2,15 @@
     {
         "id": "123213",
         "title": "A Book",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw1VvHQ7ZzfHWdBODYTF64oFMKI_fIVQ-sJg&s",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw1VvHQ7ZzfHWdBODYTF64oFMKI_fIVQ-sJg&s",
         "description": "This is an awesome book!",
         "price": "19"
+    },
+    {
+        "title": "Red Book",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw1VvHQ7ZzfHWdBODYTF64oFMKI_fIVQ-sJg&s",
+        "description": "A big red book!",
+        "price": "45",
+        "id": "0.6480216518029855"
     }
 ]
