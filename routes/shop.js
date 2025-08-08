@@ -14,7 +14,7 @@ router.get("/products", shopController.getProducts);
 
 // * Getting the ID using :
 // -> It indicates not to search for a route but search for a param
-router.get("/products/:productId", shopController.getProduct);
+router.get("/products/:productId", shopController.getProductById);
 
 router.get("/cart", shopController.getCart);
 
